@@ -1,2 +1,2 @@
-1.4.0
-https://github.com/9yahia/thanatos/releases/download/1.4.0/thanatos-1.4.0.jar
+1.5.0
+https://github.com/9yahia/thanatos/releases/download/1.5.0/thanatos-1.5.0.jar
